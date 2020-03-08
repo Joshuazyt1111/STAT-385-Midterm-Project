@@ -4,9 +4,10 @@ author: Joshua Zhao
 date: '2020-03-08'
 slug: an-overview-on-data-privacy-issues-policies
 categories:
-  - R
+  - ad
 tags:
-  - r
+  - data privacy
+  - public policy
 comments: no
 showcomments: yes
 showpagemeta: yes
