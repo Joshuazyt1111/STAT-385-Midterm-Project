@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Yutong (Joshua) Zhao"
 intro = ""
-description = "Joshua's Personal Website"
+description = "I'm an undergraduate students pursuing a degree of Bacchelor of Art & Science degree in Econometrics and Philosophy. My research interests are cybersecurity, data privacy and other public policy issues"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
