@@ -1,14 +1,17 @@
 ---
-title: An Overview of Data Privacy Issues and Policies in US
-author: ''
+title: An Overview on Data Privacy Issues & Policies
+author: Joshua Zhao
 date: '2020-03-08'
-slug: predicting-ether-price-with-machine-learning-algorithm
-categories: []
-tags: []
+slug: an-overview-on-data-privacy-issues-policies
+categories:
+  - R
+tags:
+  - r
 comments: no
 showcomments: yes
 showpagemeta: yes
 ---
+
 Over the past few years, we’ve found ourselves in unnervingly Orwellian scenarios where our democracy seems to be in jeopardy. Think of Cambridge Analytica, a British political consulting firm that used Facebook’s Application Programming Interface to harvest millions of people’s personal data and used them to influence the 2016 U.S. presidential election and Brexit referendum. The firm’s involvement led to unexpected election outcomes in both events and cast doubt on their legitimacy. 
 
 Although it is unlikely that we find ourselves in Orwell’s vision of 1984, the extent to which information can influence our daily lives and the democratic process has become worrisome. In the Information Age, our exposure on the internet directly affects the security of our personal privacy. But interestingly, most of our information isn’t controlled by the government but by private corporations. This raises both private and public concerns: What effort should we make against the for-profit exploitation of our personal data?
