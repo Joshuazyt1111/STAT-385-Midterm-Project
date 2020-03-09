@@ -1,17 +1,17 @@
 ---
 categories:
-- ad
+- articles
 comments: false
-date: "2016-10-02T15:59:13-04:00"
-description: An Overview on Data Privacy Issues & Policies
+date: "2020-03-08"
+description: A post about the amazingness of Gavin Belson
 draft: false
 showcomments: true
 showpagemeta: true
 slug: ""
 tags:
-- cybersecurity
-- public policy
-title: An Overview on Data Privacy Issues & Policies
+- Data Privacy
+- Public Policy
+title: An Overview of Data Privacy Issues and Policies in US
 ---
 
 Over the past few years, we’ve found ourselves in unnervingly Orwellian scenarios where our democracy seems to be in jeopardy. Think of Cambridge Analytica, a British political consulting firm that used Facebook’s Application Programming Interface to harvest millions of people’s personal data and used them to influence the 2016 U.S. presidential election and Brexit referendum. The firm’s involvement led to unexpected election outcomes in both events and cast doubt on their legitimacy. 

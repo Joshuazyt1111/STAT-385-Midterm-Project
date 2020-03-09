@@ -3,27 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/hugo-goa-demo/tags/belson/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <loc>/hugo-goa-demo/blog/first/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-goa-demo/categories/articles/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/hugo-goa-demo/blog/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/hugo-goa-demo/categories/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/tags/gavin/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <loc>/hugo-goa-demo/tags/data-privacy/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/tags/hooli/</loc>
+    <loc>/hugo-goa-demo/tags/education/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-goa-demo/tags/information-age/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-goa-demo/tags/liberal-arts/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-goa-demo/blog/second/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-goa-demo/tags/public-policy/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-goa-demo/tags/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-goa-demo/tags/decision-making-theory/</loc>
     <lastmod>2016-10-03T16:59:13-04:00</lastmod>
   </url>
   
@@ -33,12 +68,7 @@
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/categories/propaganda/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-goa-demo/tags/</loc>
+    <loc>/hugo-goa-demo/tags/psychology/</loc>
     <lastmod>2016-10-03T16:59:13-04:00</lastmod>
   </url>
   
@@ -54,11 +84,6 @@
   
   <url>
     <loc>/hugo-goa-demo/categories/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-goa-demo/categories/articles/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
@@ -85,31 +110,6 @@
   <url>
     <loc>/hugo-goa-demo/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-goa-demo/categories/ad/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-goa-demo/blog/first/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-goa-demo/tags/hardware/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-goa-demo/blog/second/</loc>
-    <lastmod>2016-10-01T16:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-goa-demo/tags/ceo/</loc>
-    <lastmod>2016-10-01T16:59:13-04:00</lastmod>
   </url>
   
   <url>

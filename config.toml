@@ -9,7 +9,7 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-author = "Yutong 'Joshua' Zhao"
+author = "Yutong (Joshua) Zhao"
 title = "Yutong (Joshua) Zhao"
 
 theme = "hugo-goa"
@@ -22,10 +22,10 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Yutong (Joshua) Zhao"
-intro = ""
-description = "I'm an undergraduate students pursuing a degree of Bacchelor of Art & Science degree in Econometrics and Philosophy. My research interests are cybersecurity, data privacy and other public policy issues"
+intro = "Joshua's Professonal Website"
+description = "I'm an undergraduate student pursuing a degree in Econometrics and Philosophy."
 authorimage = "headshot.jpg"
-dateformat = "Jan 2, 2006"
+dateformat = "March 8, 2020"
 
 ## Site Meta Settings
 [params.meta]
@@ -34,12 +34,12 @@ keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
-github = "https://github.com/Joshuazyt1111"
-instagram = "<username>"
+github = "/Joshuazyt1111/"
+#instagram = "<username>"
 #xing = "<username>"
-linkedin = "https://www.linkedin.com/in/%E9%9B%A8%E6%A9%A6-%E8%B5%B5-b817b012b/"
+linkedin = "/yutong-joshua-zhao-b817b012b/"
 #twitter = "<username>"
-facebook = "https://www.facebook.com/zhao.joshua.14"
+#facebook = "<username>"
 #google = "<username>"
 #googlescholar = "<account_id>"
 #stackoverflow = "<username>"
@@ -67,7 +67,7 @@ facebook = "https://www.facebook.com/zhao.joshua.14"
 #telegram = "<username>"
 #whatsapp = "<username>"
 email = "joshuazyt11@gmail.com"
-pgp = "<key_fingerprint>"
+#pgp = "<key_fingerprint>"
 
 ## Extras
 [params.extra]
@@ -90,7 +90,7 @@ displayrssicon = true
     weight = 200
     url = "/about/"
 [[menu.main]]
-    name = "coderag"
-    identifier = "coderag"
+    name = "resume"
+    identifier = "resume"
+    url = "/resume/"
     weight = 300
-    url = "/coderag/"
