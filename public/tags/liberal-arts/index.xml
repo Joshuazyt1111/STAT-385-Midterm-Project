@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Liberal Arts on Yutong (Joshua) Zhao</title>
-    <link>/hugo-goa-demo/tags/liberal-arts/</link>
+    <link>https://shenoybr.github.io/hugo-goa-demo/tags/liberal-arts/</link>
     <description>Recent content in Liberal Arts on Yutong (Joshua) Zhao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/hugo-goa-demo/tags/liberal-arts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/liberal-arts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Liberal arts majors gain edge in information age</title>
-      <link>/hugo-goa-demo/blog/second/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/blog/second/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/hugo-goa-demo/blog/second/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/blog/second/</guid>
       <description>The future painted for humanities majors might not be as bleak as the job market appears. Microsoft’s president Brad Smith claimed in his new book “one of the most important conclusions” of Microsoft’s recent research into artificial intelligence is that lessons from liberal arts will be critical to unleashing the full potential of AI.”
 This echoes Steve Jobs claim back in 2011: “It’s technology married with liberal arts, married with the humanities, that yields us the result that makes our heart sing.</description>
     </item>

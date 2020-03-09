@@ -2,138 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yutong (Joshua) Zhao</title>
-    <link>/hugo-goa-demo/tags/</link>
+    <link>https://shenoybr.github.io/hugo-goa-demo/tags/</link>
     <description>Recent content in Tags on Yutong (Joshua) Zhao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/hugo-goa-demo/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Privacy</title>
-      <link>/hugo-goa-demo/tags/data-privacy/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/tags/data-privacy/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/hugo-goa-demo/tags/data-privacy/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/data-privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>/hugo-goa-demo/tags/education/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/tags/education/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/hugo-goa-demo/tags/education/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Age</title>
-      <link>/hugo-goa-demo/tags/information-age/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/tags/information-age/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/hugo-goa-demo/tags/information-age/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/information-age/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liberal Arts</title>
-      <link>/hugo-goa-demo/tags/liberal-arts/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/tags/liberal-arts/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/hugo-goa-demo/tags/liberal-arts/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/liberal-arts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Public Policy</title>
-      <link>/hugo-goa-demo/tags/public-policy/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/tags/public-policy/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/hugo-goa-demo/tags/public-policy/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/public-policy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decision Making Theory</title>
-      <link>/hugo-goa-demo/tags/decision-making-theory/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/tags/decision-making-theory/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>/hugo-goa-demo/tags/decision-making-theory/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/decision-making-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Psychology</title>
-      <link>/hugo-goa-demo/tags/psychology/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/tags/psychology/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>/hugo-goa-demo/tags/psychology/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/psychology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>/hugo-goa-demo/tags/about/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/tags/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/hugo-goa-demo/tags/about/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aviato</title>
-      <link>/hugo-goa-demo/tags/aviato/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/tags/aviato/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/hugo-goa-demo/tags/aviato/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/aviato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bachman</title>
-      <link>/hugo-goa-demo/tags/bachman/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/tags/bachman/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/hugo-goa-demo/tags/bachman/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/bachman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pied piper</title>
-      <link>/hugo-goa-demo/tags/pied-piper/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/tags/pied-piper/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/hugo-goa-demo/tags/pied-piper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plot</title>
-      <link>/hugo-goa-demo/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/hugo-goa-demo/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/hugo-goa-demo/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/hugo-goa-demo/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>/hugo-goa-demo/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/hugo-goa-demo/tags/regression/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/pied-piper/</guid>
       <description></description>
     </item>
     

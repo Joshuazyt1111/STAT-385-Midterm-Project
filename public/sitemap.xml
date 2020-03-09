@@ -3,138 +3,113 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/hugo-goa-demo/blog/first/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/first/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/categories/articles/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/articles/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/blog/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/categories/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/tags/data-privacy/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/data-privacy/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/tags/education/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/education/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/tags/information-age/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/information-age/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/tags/liberal-arts/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/liberal-arts/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/blog/second/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/second/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/tags/public-policy/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/public-policy/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/tags/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/tags/decision-making-theory/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/decision-making-theory/</loc>
     <lastmod>2016-10-03T16:59:13-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/blog/third/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/third/</loc>
     <lastmod>2016-10-03T16:59:13-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/tags/psychology/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/psychology/</loc>
     <lastmod>2016-10-03T16:59:13-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/about/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/tags/about/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/categories/about/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/tags/aviato/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/aviato/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/tags/bachman/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/bachman/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/coderag/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/coderag/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/tags/pied-piper/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/pied-piper/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-goa-demo/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-goa-demo/blog/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-goa-demo/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-goa-demo/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-goa-demo/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-goa-demo/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
 </urlset>

@@ -2,69 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yutong (Joshua) Zhao</title>
-    <link>/hugo-goa-demo/</link>
+    <link>https://shenoybr.github.io/hugo-goa-demo/</link>
     <description>Recent content on Yutong (Joshua) Zhao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="/hugo-goa-demo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An Overview of Data Privacy Issues and Policies in US</title>
-      <link>/hugo-goa-demo/blog/first/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/blog/first/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/hugo-goa-demo/blog/first/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/blog/first/</guid>
       <description>Over the past few years, we’ve found ourselves in unnervingly Orwellian scenarios where our democracy seems to be in jeopardy. Think of Cambridge Analytica, a British political consulting firm that used Facebook’s Application Programming Interface to harvest millions of people’s personal data and used them to influence the 2016 U.S. presidential election and Brexit referendum. The firm’s involvement led to unexpected election outcomes in both events and cast doubt on their legitimacy.</description>
     </item>
     
     <item>
       <title>Liberal arts majors gain edge in information age</title>
-      <link>/hugo-goa-demo/blog/second/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/blog/second/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/hugo-goa-demo/blog/second/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/blog/second/</guid>
       <description>The future painted for humanities majors might not be as bleak as the job market appears. Microsoft’s president Brad Smith claimed in his new book “one of the most important conclusions” of Microsoft’s recent research into artificial intelligence is that lessons from liberal arts will be critical to unleashing the full potential of AI.”
 This echoes Steve Jobs claim back in 2011: “It’s technology married with liberal arts, married with the humanities, that yields us the result that makes our heart sing.</description>
     </item>
     
     <item>
       <title>Intelligence does not equate to rationality</title>
-      <link>/hugo-goa-demo/blog/third/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/blog/third/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>/hugo-goa-demo/blog/third/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/blog/third/</guid>
       <description>In his commencement speech to Harvard’s 2000 graduating class, late-night comedian Conan O’Brien cautioned his fellow Harvard alums against telling people they went to Harvard. Or else, he warns, they would forever live under the shadow of the taunting question, “And you went to Harvard?” when they make “normal folks” mistakes. The prestige of Ivy League does shadow alumni, but one thing is certain: Going to a prestigious school often implies a considerable level of intelligence.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/hugo-goa-demo/about/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/hugo-goa-demo/about/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/about/</guid>
       <description>Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.</description>
     </item>
     
     <item>
       <title>CodeRag</title>
-      <link>/hugo-goa-demo/coderag/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/coderag/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/hugo-goa-demo/coderag/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/coderag/</guid>
       <description>Notes: This article originally appeared in CodeRag.
 Code/Rag has always been more than just another online tech blog. We strive to be part of the tech community—serving an essential, fundamental look at what’s going on in the valley. It’s why our tagline is “Know Your Code.” We think a tech news publication should know the basics. Be the source. Get down to brass tacks. We can do that because we’re part of the very ecosystem we’re reporting on.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/hugo-goa-demo/blog/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/hugo-goa-demo/blog/2015-07-23-r-rmarkdown/</guid>
-      <description></description>
     </item>
     
   </channel>
